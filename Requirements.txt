@@ -1,3 +1,5 @@
 SpeechRecognition packages
-Text to Speach packages
+Text to Speech packages
 Time package for creating delay and time out.
+nvm and npm for frontend design.
+python for backend implementation.
