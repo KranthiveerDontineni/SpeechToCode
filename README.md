@@ -1,9 +1,10 @@
 # SpeechToCode
 
-Speech to Code conversion software relays on idea for generating code from the speech input given.
+Speech to Code converter is an interactive code generator which takes inputs from the developers in the form of statements and generate a bug free code.
 
-Fed up with conventional way of coding and writing lengthy programs join us for designing STCC - speech to code converter.
-We are revolutionising the way you code. This product is a stress-buster for the developers they play with their work using this device. We are also concentrating to make a ruggerd system for transcribing lengthy notes in different languages.
+services planned to be offered:
+*Transcription of lengthy notes
+*Coding platfrom which can generate customizable code 
+*DevOps automation platform which automates tasks on simple voice commands.
+*AI based voice assistant for monitoring your application workloads.
 
-# Dependencies
-The Speech to Code conversion software uses google speech api, espeak and time packages for analysing the speech input given, for generating the interactive voice answers and for generating time out and hold signals respectively. Currently the demo version is being done using python but later it is going to be shifted to shell scripting, so as to reduce the latency. 
